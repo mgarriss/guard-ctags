@@ -1,0 +1,33 @@
+= guard-ctags
+
+guard + ctags == always current tags in emacs
+
+== Features
+
+* watches and .rb files for changes and retags them
+
+== Installation
+
+There is no gem yet.
+  
+== Requirements
+
+Ruby and the guard gem.
+
+== Usage
+
+See guard docs.
+  
+== Issues
+
+* doesn't do anything yet
+
+== Author
+
+* {Michael Garriss}[http://github.com/mgarriss] <mgarriss at gmail.com>
+
+== License
+
+Apache 2.0, See the file LICENSE
+
+Copyright (c) 2011 Michael Garriss
