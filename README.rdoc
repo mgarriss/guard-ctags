@@ -4,7 +4,7 @@ guard + ctags == always current tags in emacs
 
 == Features
 
-* watches and .rb files for changes and retags them
+* watches *.rb for changes and retags them using ctags
 
 == Installation
 
